@@ -1,0 +1,22 @@
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  background-color: white;
+}
+
+.google-button {
+  background-color: #4285F4;
+  color: white;
+  border: none;
+  padding: 14px 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.google-button:hover {
+  background-color: #357ae8;
+}
